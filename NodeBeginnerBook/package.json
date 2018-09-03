@@ -1,9 +1,10 @@
 {
   "name": "node-beginner-book",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "NodeBeginnerBook",
   "main": "server.js",
   "author": {
-    "name": ""
+    "name": "Tuan Le"
   }
+  "license": "MIT"
 }
